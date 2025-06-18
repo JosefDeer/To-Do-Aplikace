@@ -7,6 +7,6 @@ live to je na: https://to-do-aplikace.vercel.app/
 Hlavní funkce:
 
 Seznam úkolů podle priorit, jsou barevně označené.
-Možnost přidání nového úkolu, vlastně, nebo podle šablony.
+Možnost přidání nového úkolu, vlastního, nebo podle šablony.
 
-jednoduchá design.
+jednoduchý design.
